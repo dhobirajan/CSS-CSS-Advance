@@ -1,0 +1,11 @@
+p{
+    font-family: arial;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 100px;
+    color:greenyellow;
+}
+pre{
+    font-weight: 700;
+    font-variant: small-caps;
+}

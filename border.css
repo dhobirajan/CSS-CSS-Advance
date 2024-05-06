@@ -1,0 +1,9 @@
+p{
+    border-color:red;
+    border-top-color: black;
+    border-right-color: blue;
+    border-style: dashed;
+    border-width: 2px;
+    border-bottom-color: greenyellow;
+
+}
